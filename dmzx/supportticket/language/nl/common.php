@@ -38,16 +38,14 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'STS_SUPPORT_TICKET'			=> 'Support ticket Systeem',
 	'STS_NEW_SUPPORT_TICKET'		=> 'Nieuw Support Ticket',
-	'STS_ERRMESSAGE'				=> 'Je hebt geen titel opgegeven voor je post. Gelieve de Terug knop van je browser te gebruiken om dit te corrigeren!',
 	'STS_PHPBBVERSION'				=> 'Jouw phpBB versie:',
 	'STS_PHPBBTYPE'					=> 'Jouw phpBB Type:',
 	'STS_STANDARD'					=> 'Standaard phpBB',
 	'STS_PREMOD'					=> 'Premodded phpBB',
 	'STS_ANDDIST'					=> 'andere phpBB Distributies',
-	'STS_MODS'						=> 'Heb je extensies ge&iuml;nstalleerd op je forum?',
-	'STS_MODS_SHORT'				=> 'Ge&iuml;nstalleerde extensies:',
+	'STS_MODS'						=> 'Heb je extensies geïnstalleerd op je forum?',
+	'STS_MODS_SHORT'				=> 'Geïnstalleerde extensies:',
 	'STS_YES'						=> 'Ja',
 	'STS_NO'						=> 'Nee',
 	'STS_KNOWLEDGE'					=> 'Jouw kennis:',
@@ -62,5 +60,5 @@ $lang = array_merge($lang, array(
 	'STS_SQLVER'					=> 'MySQL Versie:',
 	'STS_HEAD_MSG'					=> 'Beschrijving en bericht',
 	'STS_OPTIONAL'					=> 'niet verplicht',
-	'STS_HEAD'						=> 'Deze assistent helpt je om het support team genoeg informatie te geven om je te kunnen helpen. Gelieve zoveel mogelijk velden in te vullen. Enkel met deze informatie is het mogelijk om je snel en effici&euml;nt te helpen!',
+	'STS_HEAD'						=> 'Deze assistent helpt je om het support team genoeg informatie te geven om je te kunnen helpen. Gelieve zoveel mogelijk velden in te vullen. Enkel met deze informatie is het mogelijk om je snel en efficiënt te helpen!',
 ));
